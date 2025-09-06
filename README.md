@@ -12,3 +12,4 @@ SI = (P × R × T) / 100
    ./simple-interest.sh
 
 The script will calculate and display the Simple Interest based on user input.
+This line was added in bug-fix-typo branch for assignment demo.
